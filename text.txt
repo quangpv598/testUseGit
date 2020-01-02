@@ -3,3 +3,4 @@ test pull
 test pull 2
 test commit 2
 quang_3 test commit
+quang_3 test pull
